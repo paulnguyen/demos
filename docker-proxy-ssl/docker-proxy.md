@@ -1,8 +1,3 @@
-* https://omarghader.github.io/haproxy-letsencrypt-docker-certbot-certificates
-* https://github.com/nginx-proxy/nginx-proxy
-* https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion
-* https://www.keycdn.com/blog/best-free-dns-hosting-providers
-
 
 ## HAProxy LetsEncrypt Docker Tutorial
 
@@ -149,6 +144,13 @@ To create the docker group and add your user:
     $ docker run hello-world
 
 
+
+## References
+
+* https://omarghader.github.io/haproxy-letsencrypt-docker-certbot-certificates
+* https://github.com/nginx-proxy/nginx-proxy
+* https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion
+* https://www.keycdn.com/blog/best-free-dns-hosting-providers
 
 
 
